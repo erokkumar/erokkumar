@@ -1,3 +1,4 @@
+![logo](https://github.com/erokkumar/erokkumar/blob/main/coding.gif)
 <h1 align="center">Hi 👋, I'm ROHIT KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src= "https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
