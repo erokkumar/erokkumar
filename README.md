@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erokkumar&label=Profile%20views&color=0e75b6&style=flat" alt="erokkumar" /> </p>
 
-- 🌱 I have 2 Year Experience in **Java Backend Developer **
+- 🌱 I have 1 Year Experience in **Java Backend Developer **
 
 - 👨‍💻 All of my projects are available at [https://github.com/erokkumar](https://github.com/erokkumar)
 
